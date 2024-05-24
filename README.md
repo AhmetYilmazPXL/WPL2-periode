@@ -1,4 +1,4 @@
 # WPL2-periode
-# Logboek WPL 2
+# Logboek WPL2
 # Ontwikkelingsgesprekken WPL2
-# Opdrachten
+# Opdrachten WPL2
